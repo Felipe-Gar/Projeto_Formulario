@@ -8,4 +8,27 @@
     margin-bottom: 10px;
     display: flex;
     justify-content: space-between;
+    padding-left: 150px;
+    padding-top: 20px;
+  
 }
+#tbl{
+    padding-top: 100px;
+}
+
+nav{
+    padding: 5px;
+    font-size: 65px;
+    text-align: center;
+}
+button{
+    margin-left: 750px;
+    margin-top: 50px;
+    
+}
+hr{
+    height: 15px;
+}
+
+
+
