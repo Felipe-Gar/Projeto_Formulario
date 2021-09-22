@@ -47,7 +47,6 @@
               <div class=" mb-3">
                   <input type="password" class="form-control" id="floatingInput" name="consenha" placeholder="Confirme sua Senha">
                   <label for="floatingInput"></label>
-        
                 </div>
               <p></p>
               <label>CPF</label>
@@ -56,6 +55,7 @@
                   <input type="text" class="form-control" id="floatingInput" name="cpf" placeholder="Coloque seu CPF">
                   <label for="floatingInput"></label>
               </div>
+
               <p></p>
               <label>Data de Nascimento</label>
               <br>
@@ -63,6 +63,7 @@
                   <input type="text " class="form-control" id="floatingInput" name="datan" placeholder="Informe sua data de Nascimento">
                   <label for="floatingInput"></label>
               </div>
+
               <p></p>
               <label>Celular</label>
               <br>
@@ -70,6 +71,7 @@
                   <input type="number" class="form-control" id="floatingInput" name="celular" placeholder="Informe o seu Celular">
                   <label for="floatingInput"></label>
                 </div>
+
               <p></p>
               <h2>Endereço</h2>
               <div class="input-group mb-4">
@@ -78,12 +80,14 @@
                   <span class="input-group-text">Rua</span>
                   <input type="text" class="form-control" name="rua" placeholder="Informe seu endereço">
                 </div>
+
                 <div class="input-group mb-4">
                   <span class="input-group-text">Número</span>
                   <input type="text" class="form-control" name="numero" placeholder="Informe o seu número">
                   <span class="input-group-text">Complemento</span>
                   <input type="text" class="form-control" name="comple" placeholder="Informação adicional...">
               </div>
+
               <div class="input-group mb-4">
                   <span class="input-group-text">Bairro</span>
                   <input type="text" class="form-control" name="bairro" placeholder="Informação adicional...">
